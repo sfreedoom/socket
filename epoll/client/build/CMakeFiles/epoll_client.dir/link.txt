@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/epoll_client.dir/src/main.cpp.o CMakeFiles/epoll_client.dir/src/epoll_client.cpp.o  -o ../bin/epoll_client -rdynamic 
