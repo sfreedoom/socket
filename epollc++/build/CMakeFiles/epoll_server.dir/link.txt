@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -march=native -O3 -pthread    CMakeFiles/epoll_server.dir/src/main.cpp.o  -o /bin/epoll_server -rdynamic 

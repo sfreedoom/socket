@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -march=native -O3 -pthread    CMakeFiles/socket.bin.dir/src/main.cpp.o  -o /bin/socket.bin -rdynamic 
